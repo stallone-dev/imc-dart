@@ -1,4 +1,3 @@
-import 'package:dart_imc/imc_categories.enum.dart';
 import 'package:dart_imc/person.class.dart';
 import 'package:test/test.dart';
 
